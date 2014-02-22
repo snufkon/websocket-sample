@@ -1,6 +1,6 @@
 # websocket-sample
 
-WebSocket sample project written by Clojure and ClojureScript.
+WebSocket sample program written by Clojure and ClojureScript.
 
 ## Usage
 
